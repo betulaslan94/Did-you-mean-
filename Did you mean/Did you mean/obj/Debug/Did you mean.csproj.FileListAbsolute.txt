@@ -1,0 +1,9 @@
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Did you mean\Did you mean\bin\Debug\Did you mean.exe.config
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Did you mean\Did you mean\bin\Debug\Did you mean.exe
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Did you mean\Did you mean\bin\Debug\Did you mean.pdb
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Did you mean\Did you mean\obj\Debug\Did you mean.csprojResolveAssemblyReference.cache
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Did you mean\Did you mean\obj\Debug\Did_you_mean.Form1.resources
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Did you mean\Did you mean\obj\Debug\Did_you_mean.Properties.Resources.resources
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Did you mean\Did you mean\obj\Debug\Did you mean.csproj.GenerateResource.Cache
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Did you mean\Did you mean\obj\Debug\Did you mean.exe
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Did you mean\Did you mean\obj\Debug\Did you mean.pdb

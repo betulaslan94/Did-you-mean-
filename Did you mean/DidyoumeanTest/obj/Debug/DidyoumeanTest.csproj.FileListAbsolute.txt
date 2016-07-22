@@ -1,0 +1,8 @@
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Did you mean\DidyoumeanTest\obj\Debug\DidyoumeanTest.csprojResolveAssemblyReference.cache
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Did you mean\DidyoumeanTest\bin\Debug\DidyoumeanTest.dll
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Did you mean\DidyoumeanTest\bin\Debug\DidyoumeanTest.pdb
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Did you mean\DidyoumeanTest\bin\Debug\Did you mean.exe
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Did you mean\DidyoumeanTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Did you mean\DidyoumeanTest\bin\Debug\Did you mean.pdb
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Did you mean\DidyoumeanTest\obj\Debug\DidyoumeanTest.dll
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Did you mean\DidyoumeanTest\obj\Debug\DidyoumeanTest.pdb
